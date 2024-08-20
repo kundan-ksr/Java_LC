@@ -1,3 +1,9 @@
+/*here we are iterating over the matrix and checking whether the array[i][j] contains any 0,
+    if it contains any 0 then accordingly we update the row and col matrix value to 1 so that after
+    iteration of the whole matrix we can change the value of the whole matrix to 0;
+
+    the extra row and column is used so that we do not overwrite the matrix.
+*/
 class Solution {
     public void setZeroes(int[][] matrix) {
         int[] row = new int[matrix.length];
