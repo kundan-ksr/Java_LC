@@ -15,11 +15,11 @@ class Solution {
             }
         }
         s = sb.toString();
-        if(s.length() < k){
+        String[] ans = s.split(" ");
+        if(ans.length < k){
             return "";
         }
 
-        String[] ans = s.split(" ");
         return ans[k-1];
     }
 }
