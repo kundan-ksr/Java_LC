@@ -1,3 +1,7 @@
+
+// For detail solution : https://www.youtube.com/watch?v=EkJ2Us1DowA
+
+
 class Solution {
     public int findPoisonedDuration(int[] timeSeries, int duration) {
         int count = 0;
