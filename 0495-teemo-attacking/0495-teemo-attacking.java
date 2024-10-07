@@ -1,7 +1,7 @@
 class Solution {
     public int findPoisonedDuration(int[] timeSeries, int duration) {
         int count = 0;
-        for (int i = 0; i < timeSeries.length - 1; i++) {
+        for (int i = 1; i < timeSeries.length; i++) {
 
             // add duration normally
             if (timeSeries[i] - timeSeries[i - 1] >= duration) {
@@ -10,7 +10,7 @@ class Solution {
 
             else { // if next attack occurs before current duration ends, include the difference
 
-                count += timeseries[i] - timeseries[i - 1]; // it is done to count the duration only    once, not repeat it
+                count += timeSeries[i] - timeSeries[i - 1]; // it is done to count the duration only    once, not repeat it
             }
 
         }
