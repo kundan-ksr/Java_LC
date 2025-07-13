@@ -14,7 +14,7 @@
 
 class Solution {
     public void deleteNode(ListNode node) {
-        node.val = node.next.val;
-        node.next = node.next.next;
+        node.val = node.next.val; //copied value of next node in node to be deleted.
+        node.next = node.next.next; // moved the pointer to the next of next node and deleted the node after given node because we copied it's value to current node and moved the pointer of given node to next of value copied node.
     }
 }
