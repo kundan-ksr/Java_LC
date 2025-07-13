@@ -37,18 +37,18 @@ class Solution {
 
 
 //Optimized approach in one go-
-public static ListNode DeleteNthNodefromEnd(ListNode head, int N) {
+public ListNode removeNthFromEnd(ListNode head, int n) {
         // Create two pointers, fastp and slowp
         ListNode fastp = head;
         ListNode slowp = head;
 
         // Move the fastp pointer N nodes ahead
-        for (int i = 0; i < N; i++)
-            fastp = fastp.next;
+        for (int i = 0; i < n; i++)
+            fastp = fastp.next; //This creates a gap of n nodes between fastp and slowp.
 
         // If fastp becomes null, the Nth node from the end is the head
         if (fastp == null)
-            return head.next;
+            return head.next; //Edge Case Check If fastp is null after moving n steps, it means the nth node from the end is the head itself, so you just remove the head:
 
         // Move both pointers until fastp reaches the end
         while (fastp.next != null) {
