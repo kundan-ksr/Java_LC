@@ -1,26 +1,18 @@
-import java.util.Arrays;
-
 class Solution {
     public boolean isAnagram(String s, String t) {
-        char[] ch = s.toCharArray();
-        char[] cha = t.toCharArray();
+        if (s.length() != t.length()) return false;
 
-        if(ch.length != cha.length){
-                return false;
-            }
+        int[] count = new int[26];  // Assuming input is lowercase a–z only
 
-        Arrays.sort(ch);
-        Arrays.sort(cha);
-
-        for(int i=0; i<cha.length; i++){
-            if(ch[i] != cha[i]){
-                return false;
-            }
+        for (int i = 0; i < s.length(); i++) {
+            count[s.charAt(i) - 'a']++;
+            count[t.charAt(i) - 'a']--;
         }
-        return true;
 
-        // s = ch.toString();
-        // t = cha.toString();
-        
+        for (int c : count) {
+            if (c != 0) return false;
+        }
+
+        return true;
     }
 }
