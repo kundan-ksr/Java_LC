@@ -20,4 +20,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/kundan-ksr/Java_LC/tree/main/0075-sort-colors/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kundan-ksr/Java_LC/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kundan-ksr/Java_LC/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
