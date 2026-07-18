@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/kundan-ksr/Java_LC/tree/main/0075-sort-colors/) | Medium |
+| [0136-single-number](https://github.com/kundan-ksr/Java_LC/tree/main/0136-single-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kundan-ksr/Java_LC/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/kundan-ksr/Java_LC/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
