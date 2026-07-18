@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/kundan-ksr/Java_LC/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/kundan-ksr/Java_LC/tree/main/0136-single-number/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/kundan-ksr/Java_LC/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,4 +35,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/kundan-ksr/Java_LC/tree/main/0136-single-number/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/kundan-ksr/Java_LC/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
