@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/kundan-ksr/Java_LC/tree/main/0075-sort-colors/) | Medium |
+| [0844-backspace-string-compare](https://github.com/kundan-ksr/Java_LC/tree/main/0844-backspace-string-compare/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,11 +53,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kundan-ksr/Java_LC/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0844-backspace-string-compare](https://github.com/kundan-ksr/Java_LC/tree/main/0844-backspace-string-compare/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kundan-ksr/Java_LC/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kundan-ksr/Java_LC/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0844-backspace-string-compare](https://github.com/kundan-ksr/Java_LC/tree/main/0844-backspace-string-compare/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kundan-ksr/Java_LC/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -68,4 +71,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kundan-ksr/Java_LC/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kundan-ksr/Java_LC/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/kundan-ksr/Java_LC/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
