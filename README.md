@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/kundan-ksr/Java_LC/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/kundan-ksr/Java_LC/tree/main/0136-single-number/) | Easy |
+| [0575-distribute-candies](https://github.com/kundan-ksr/Java_LC/tree/main/0575-distribute-candies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/kundan-ksr/Java_LC/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kundan-ksr/Java_LC/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kundan-ksr/Java_LC/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -86,5 +87,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0575-distribute-candies](https://github.com/kundan-ksr/Java_LC/tree/main/0575-distribute-candies/) | Easy |
 | [3731-find-missing-elements](https://github.com/kundan-ksr/Java_LC/tree/main/3731-find-missing-elements/) | Easy |
 <!---LeetCode Topics End-->
