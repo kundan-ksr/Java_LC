@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/kundan-ksr/Java_LC/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kundan-ksr/Java_LC/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kundan-ksr/Java_LC/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/kundan-ksr/Java_LC/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kundan-ksr/Java_LC/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/kundan-ksr/Java_LC/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,4 +91,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0575-distribute-candies](https://github.com/kundan-ksr/Java_LC/tree/main/0575-distribute-candies/) | Easy |
 | [3731-find-missing-elements](https://github.com/kundan-ksr/Java_LC/tree/main/3731-find-missing-elements/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/kundan-ksr/Java_LC/tree/main/2396-strictly-palindromic-number/) | Medium |
 <!---LeetCode Topics End-->
