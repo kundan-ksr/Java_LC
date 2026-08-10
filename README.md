@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/kundan-ksr/Java_LC/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kundan-ksr/Java_LC/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kundan-ksr/Java_LC/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kundan-ksr/Java_LC/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3731-find-missing-elements](https://github.com/kundan-ksr/Java_LC/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/kundan-ksr/Java_LC/tree/main/0075-sort-colors/) | Medium |
 | [0844-backspace-string-compare](https://github.com/kundan-ksr/Java_LC/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kundan-ksr/Java_LC/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kundan-ksr/Java_LC/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/kundan-ksr/Java_LC/tree/main/0844-backspace-string-compare/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/kundan-ksr/Java_LC/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
