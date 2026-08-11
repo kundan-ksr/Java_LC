@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/kundan-ksr/Java_LC/tree/main/0007-reverse-integer/) | Medium |
 | [0412-fizz-buzz](https://github.com/kundan-ksr/Java_LC/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/kundan-ksr/Java_LC/tree/main/0415-add-strings/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kundan-ksr/Java_LC/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
