@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/kundan-ksr/Java_LC/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/kundan-ksr/Java_LC/tree/main/0136-single-number/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kundan-ksr/Java_LC/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0575-distribute-candies](https://github.com/kundan-ksr/Java_LC/tree/main/0575-distribute-candies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/kundan-ksr/Java_LC/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kundan-ksr/Java_LC/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/kundan-ksr/Java_LC/tree/main/0075-sort-colors/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kundan-ksr/Java_LC/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/kundan-ksr/Java_LC/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kundan-ksr/Java_LC/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kundan-ksr/Java_LC/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -31,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/kundan-ksr/Java_LC/tree/main/0075-sort-colors/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kundan-ksr/Java_LC/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kundan-ksr/Java_LC/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/kundan-ksr/Java_LC/tree/main/3731-find-missing-elements/) | Easy |
 ## Linked List
@@ -89,10 +92,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kundan-ksr/Java_LC/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0575-distribute-candies](https://github.com/kundan-ksr/Java_LC/tree/main/0575-distribute-candies/) | Easy |
 | [3731-find-missing-elements](https://github.com/kundan-ksr/Java_LC/tree/main/3731-find-missing-elements/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/kundan-ksr/Java_LC/tree/main/2396-strictly-palindromic-number/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kundan-ksr/Java_LC/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 <!---LeetCode Topics End-->
