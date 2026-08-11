@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/kundan-ksr/Java_LC/tree/main/0412-fizz-buzz/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kundan-ksr/Java_LC/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/kundan-ksr/Java_LC/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Number Theory
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/kundan-ksr/Java_LC/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0412-fizz-buzz](https://github.com/kundan-ksr/Java_LC/tree/main/0412-fizz-buzz/) | Easy |
 | [0844-backspace-string-compare](https://github.com/kundan-ksr/Java_LC/tree/main/0844-backspace-string-compare/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kundan-ksr/Java_LC/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Stack
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/kundan-ksr/Java_LC/tree/main/0412-fizz-buzz/) | Easy |
 | [0844-backspace-string-compare](https://github.com/kundan-ksr/Java_LC/tree/main/0844-backspace-string-compare/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kundan-ksr/Java_LC/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Hash Table
